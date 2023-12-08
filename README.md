@@ -1,4 +1,4 @@
-# Here_hackathon
+# Here Hackathon
 IIT BOMBAY
 This is a Local Business Discovery App:
 
